@@ -1,2 +1,3 @@
 # SN74LVC8T245-8-Bit-Dual-Supply
 two FPGA connection board
+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
